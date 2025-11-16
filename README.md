@@ -24,8 +24,6 @@ The project follows a structured NLP and clustering pipeline:
 
 ## Model Performance & Cluster Analysis
 
-The model's **Silhouette Score** was **0.0xxx** *(fill in from your notebook)*, which is common and expected for high-dimensional, sparse text data.
-
 The true success of the model is in the **qualitative analysis** of the clusters. The K-Means algorithm successfully identified clear, interpretable themes:
 
 * **Cluster 0:** US TV Shows (Dramas & Comedies)
